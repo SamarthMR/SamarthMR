@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+#### I am a Data Science aspirant looking for job roles to make a career in Data Science/Data Analysis. Highly analytical and smart learner eager to apply one year of self-learning Python, Data
+Analysis and R programming experience to some good use by contributing to open source. Passionate worker with creative background excited to expand skill set.
 <!--
 **SamarthMR/SamarthMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
