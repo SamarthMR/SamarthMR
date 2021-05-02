@@ -4,10 +4,7 @@
 #### Highly analytical and smart learner eager to apply my two years of self-learning Python experience and one year of Data Analysis, SQL and R programming experience to some good use by contributing to the open source.
 
 #### Passionate worker with creative background excited to expand skill set !!
-<!--
-**SamarthMR/SamarthMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science Open-source projects using real-time data.
 - 🌱 I’m currently learning Machine Learning at DevIncepts.
@@ -15,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Django and Flask Web Development.
 - 💬 Ask me about Python programming, Data Science, best practices to learn any programming language, tools and technologies.
 - 📫 How to reach me: Contact me directly on this email
-mrsamarth18@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                      mrsamarth18@gmail.com
+- 😄 Pronouns: Sammy, Sam
+- ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks.
+
