@@ -3,7 +3,7 @@
 
 #### Highly analytical and smart learner eager to apply my two years of self-learning Python experience and one year of Data Analysis, SQL and R programming experience to some good use by contributing to the open source.
 
-#### Passionate worker with creative background excited to expand skill set.
+#### Passionate worker with creative background excited to expand skill set!!
 <!--
 **SamarthMR/SamarthMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
