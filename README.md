@@ -1,3 +1,7 @@
+# Samarth M R
+
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/samarthmr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/Samarthmr10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:mrsamarth18@gmail.com)
+
 ### Hi there 👋
 #### I am a Data Science aspirant looking for new job roles to make a career in Data Science/Data Analysis.
 
@@ -22,4 +26,6 @@
 - 😄 Pronouns: Sammy, Sam
 
 - ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SanarthMR&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
