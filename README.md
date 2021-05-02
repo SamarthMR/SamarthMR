@@ -7,7 +7,7 @@
 #### Highly analytical and smart learner eager to apply my two years of self-learning Python experience and one year of Data Analysis, SQL and R programming experience to some good use by contributing to the open source.
 #### Passionate worker with creative background excited to expand skill set !!
 
-
+#### 
 
 - 🔭 I’m currently working on Data Science Open-source projects using real-time data.
 
