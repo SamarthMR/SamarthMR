@@ -7,12 +7,19 @@
 
 
 - 🔭 I’m currently working on Data Science Open-source projects using real-time data.
+
 - 🌱 I’m currently learning Machine Learning at DevIncepts.
+
 - 👯 I’m looking to collaborate on any real-world, open-source Python, AI, Data Analysis and Data Science projects.
+
 - 🤔 I’m looking for help with Django and Flask Web Development.
+
 - 💬 Ask me about Python programming, Data Science, best practices to learn any programming language, tools and technologies.
+
 - 📫 How to reach me: Contact me directly on this email
                       mrsamarth18@gmail.com
+
 - 😄 Pronouns: Sammy, Sam
+
 - ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks.
 
