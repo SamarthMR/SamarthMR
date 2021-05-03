@@ -1,6 +1,6 @@
 # Samarth M R
 
-[![linkedin](https://github.com/SamarthMR/SamarthMR/assets/image/linkedin.PNG)](https://www.linkedin.com/in/samarthmr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![github](https://github.com/SamarthMR/SamarthMR/assets/image/github.PNG)](https://github.com/SamarthMR)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/SamarthMR/SamarthMR/assets/image/twitter.PNG)](https://twitter.com/Samarthmr10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/SamarthMR/SamarthMR/assets/image/gmail.PNG)](mailto:mrsamarth18@gmail.com)
+[![linkedin](https://github.com/SamarthMR/SamarthMR/assets/image/linkedin.PNG)](https://www.linkedin.com/in/samarthmr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![github](https://github.com/SamarthMR/SamarthMR/assets/image/github.png)](https://github.com/SamarthMR)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/SamarthMR/SamarthMR/assets/image/twitter.PNG)](https://twitter.com/Samarthmr10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/SamarthMR/SamarthMR/assets/image/gmail.PNG)](mailto:mrsamarth18@gmail.com)
 
 ### Hi there 👋
 #### I am a Data Science aspirant looking for new job roles to make a career in Data Science/Data Analysis. Highly analytical and smart learner eager to apply my two years of self-learning Python experience and one year of Data Analysis, SQL and R programming experience to some good use by contributing to the open source. Passionate worker with creative background excited to expand skill set !!
