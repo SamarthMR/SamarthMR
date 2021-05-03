@@ -31,7 +31,7 @@
 
 - 😄 Pronouns: He/Him
 
-- ![image](https://user-images.githubusercontent.com/54024433/116875214-2c851f80-ac38-11eb-8c31-cf56380607e5.png) Nicknames: Sammy, Sam
+- 👋 Nicknames: Sammy, Sam
 
 - ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks.
 
