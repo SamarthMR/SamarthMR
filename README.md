@@ -33,5 +33,29 @@
 
 - ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" height="40px"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://github.com/" target="_blank">
+    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
+<hr>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarthMR&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SamarthMR" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarthMR&theme=tokyonight&show_icons=true&locale=en" alt="SamarthMR" />
+</p>
+<br>
+<hr>
+<div align="center">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SanarthMR&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
