@@ -50,7 +50,7 @@
   <a href="https://www.tensorflow.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
+    <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Notebook" width="60" height="100"/> </a>
 </p>
 <hr>
 <p>
