@@ -1,8 +1,8 @@
 # Samarth M R
 
-<!--
-[![linkedin](https://github.com/SamarthMR/SamarthMR/assets/image/linkedin.PNG)](https://www.linkedin.com/in/samarthmr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![github](https://github.com/SamarthMR/SamarthMR/assets/image/github.png)](https://github.com/SamarthMR)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/SamarthMR/SamarthMR/assets/image/twitter.PNG)](https://twitter.com/Samarthmr10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/SamarthMR/SamarthMR/assets/image/gmail.PNG)](mailto:mrsamarth18@gmail.com)
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthmr&label=Profile%20views&color=0e75b6&style=flat" alt="samarthmr" /> </p>
+
+<p align="left"> <a href="https://twitter.com/samarthmr10" target="blank"><img src="https://img.shields.io/twitter/follow/samarthmr10?logo=twitter&style=for-the-badge" alt="samarthmr10" /></a> </p>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/samarthmr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
