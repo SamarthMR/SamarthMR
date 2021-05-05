@@ -13,7 +13,7 @@
 </p>
 
 ### Hi there 👋
-#### I am a Datacamp certified Data Scientist looking for new job roles to make a career in Data Science/Data Analysis. Highly analytical and smart learner eager to apply my 2 years of self-learning Python experience and 1 year of Data Analysis, SQL and R programming experience to some good use by contributing to the open source. Passionate worker with creative background excited to expand skill set !!
+#### I am a Datacamp certified Data Scientist looking for new job roles to make a career in Data Science/Data Analysis. Highly analytical and smart learner eager to apply my 2 years of self-learning Python experience and 1 year of Data Analysis, SQL and R experience to some good use by contributing to the open source. Passionate worker with creative background excited to expand skill set !!
 
 
 - 🔭 I’m currently working on Data Science Open-source projects using real-time data.
