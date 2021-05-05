@@ -30,7 +30,7 @@
 
 - 👋 Nicknames: Sammy, Sam
 
-- ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks.
+- ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks/cool drinks.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,5 +39,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthmr&show_icons=true&locale=en&layout=compact" alt="samarthmr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthmr&show_icons=true&locale=en" alt="samarthmr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthmr&" alt="samarthmr" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SanarthMR&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
