@@ -1,9 +1,14 @@
 # Samarth M R
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthmr&label=Profile%20views&color=0e75b6&style=flat" alt="samarthmr" /> </p>
+<p align="left">
+<a href="https://twitter.com/Samarthmr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="Samarthmr10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samarthmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="samarthmr" height="30" width="40" /></a>
+<a href="https://instagram.com/samarthmr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="samarthmr10" height="30" width="40" /></a>
+<a href="https://github.com/SamarthMR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mrsamarth18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="mrsamarth18" height="30" width="40" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/samarthmr10" target="blank"><img src="https://img.shields.io/twitter/follow/samarthmr10?logo=twitter&style=for-the-badge" alt="samarthmr10" /></a> </p>
-
+<!--
 <p align="left">
 <a href="https://www.linkedin.com/in/samarthmr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samarthmr10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
@@ -11,6 +16,7 @@
 <a href="https://github.com/SamarthMR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/Samarthmr10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Samarthmr10" height="30" width="40" /></a>
 </p>
+-->
 
 ### Hi there 👋
 #### I am a Datacamp certified Data Scientist looking for new job roles to make a career in Data Science/Data Analysis. Highly analytical and smart learner eager to apply my 2 years of self-learning Python experience and 1 year of Data Analysis, SQL and R experience to some good use by contributing to the open source. Passionate worker with creative background excited to expand skill set !!
