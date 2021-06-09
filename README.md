@@ -42,9 +42,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthmr&" alt="samarthmr" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SanarthMR&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamarthMR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SanarthMR&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
