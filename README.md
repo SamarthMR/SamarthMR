@@ -1,3 +1,5 @@
+<img src ="assets/image/DS.jpg" alt="Samarth M R - Backend Developer">
+
 # Samarth M R
 
 <p align="left">
