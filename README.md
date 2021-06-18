@@ -1,4 +1,4 @@
-<img src ="assets/image/DS.jpg" width="250" alt="Samarth M R - Backend Developer">
+<img src ="assets/image/DS.jpg" width="1000" alt="Samarth M R - Backend Developer">
 
 # Samarth M R
 
