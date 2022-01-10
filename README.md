@@ -12,14 +12,14 @@
 
 
 ### Hi there 👋
-#### I am a Datacamp certified Data Scientist in Python looking for new job roles to make a career in Data Science/Data Analysis. Highly analytical and smart learner eager to apply my 2 years of self-learning Python experience and 1 year of Data Analysis, SQL and R programming experience to some good use by contributing to the open source. Passionate worker with creative background excited to expand skill set !!
+#### I am a Full Stack Automation Engineer specialized in AI & Data Analytics, also highly skilled in Machine Learning, Computer Vision and SAP BI. I am currently working as an Associate Software Engineer at Accenture. I'm a highly analytical and smart learner eager to apply my 2 years of self-learning Python experience and 1 year of Data Analytics, ML and programming experience to some good use by contributing to the open source. Passionate worker with creative background always excited to expand skill set !!
 
 
-- 🔭 I’m currently working on Data Science Open-source projects using real-time data.
+- 🔭 I’m currently working on Data Science Open-source projects using real-time data during leisure time.
 
-- 🌱 I’m currently learning Machine Learning at DevIncepts.
+- 🌱 I'm looking forward to create my own open-source libraries in Python which can be accessed across all platforms.
 
-- 👯 I’m looking to collaborate on any real-world, open-source Python, AI, Data Analysis and Data Science projects.
+- 👯 I’m looking to collaborate on any real-world, open-source Python, AI, Data Analytics and Data Science projects.
 
 - 🤔 I’m looking for help with Django and Flask Web Development.
 
@@ -34,7 +34,7 @@
 
 - 👋 Nicknames: Sammy, Sam
 
-- ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks/cool drinks.
+- ⚡ Fun fact: I cannot work continously for more than 2 hours without having any food/snacks.
 
 
 <h3 align="left">Languages and Tools:</h3>
